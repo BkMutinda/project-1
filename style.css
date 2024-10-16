@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background: #807b3f;
+    height: 100vh;
+    width: auto;
+}
+.header{
+    background: #8d947a;
+    justify-content: center;
+    height: 5rem;
+}
+li{
+    list-style: none;
+    font-size: 1.2rem;
+    display: inline-flex;
+    display: ;
+}
